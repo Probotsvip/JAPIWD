@@ -1,0 +1,7 @@
+name = "Notty_Boy-yt"
+main = "index.js"
+compatibility_date = "2025-04-01"
+
+[[kv_namespaces]]
+binding = "YTDOWN_KEYS"
+id = "42818ced544d4977b7da02b4a68775c6"  # Replace with your real KV ID
